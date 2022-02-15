@@ -1,6 +1,6 @@
 
 
-## Flix Part 1 week1##
+## Flix Part 1 week1
 
 ### User Stories
 `TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after checking off completed user stories)
