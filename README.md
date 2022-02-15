@@ -12,9 +12,9 @@ https://user-images.githubusercontent.com/78555907/154148033-9726aa80-38c9-44f0-
 
 
 #### REQUIRED (10pts)
-- [ ] (2pts) User sees an app icon on the home screen and a styled launch screen.
-- [ ] (5pts) User can view and scroll through a list of movies now playing in theaters.
-- [ ] (3pts) User can view the movie poster image for each movie.
+- [YES] (2pts) User sees an app icon on the home screen and a styled launch screen.
+- [YES] (5pts) User can view and scroll through a list of movies now playing in theaters.
+- [YES] (3pts) User can view the movie poster image for each movie.
 
 
 
