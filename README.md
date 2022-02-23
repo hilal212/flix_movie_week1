@@ -34,6 +34,8 @@ https://user-images.githubusercontent.com/78555907/155260577-775c9800-25fb-4f11-
 https://user-images.githubusercontent.com/78555907/154148033-9726aa80-38c9-44f0-9e57-ab6e6c8a0683.mp4
 
 
+.
+
 #### REQUIRED (10pts)
 - [YES] (2pts) User sees an app icon on the home screen and a styled launch screen.
 - [YES] (5pts) User can view and scroll through a list of movies now playing in theaters.
