@@ -2,7 +2,9 @@
 ## Flix Part 2
 
 ### User Stories
-
+In this assignment, we'll be extending our Flicks app to allow users to get more information about a particular movie in a movie details screen. Then, we'll add a tab bar to allow users to view movies in a grid view (Collection View) from different endpoints of the MovieDB API.
+1. User can tap a cell to see more details about a particular movie.
+2. User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 #### REQUIRED (10pts)
 - [ YES] (5pts) User can tap a cell to see more details about a particular movie.
 - [ YES] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
