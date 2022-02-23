@@ -1,4 +1,27 @@
 
+## Flix Part 2
+
+### User Stories
+
+#### REQUIRED (10pts)
+- [ YES] (5pts) User can tap a cell to see more details about a particular movie.
+- [ YES] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+#### BONUS
+- [ YES] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [ YES] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+
+### App Walkthrough GIF
+
+
+
+
+
+https://user-images.githubusercontent.com/78555907/155260577-775c9800-25fb-4f11-9f75-e83733470ebb.mp4
+
+
+
+
 
 ## Flix Part 1 week1
 
